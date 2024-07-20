@@ -1,7 +1,9 @@
 # anmol-1027.github.io
 ## Activity Report of student induction Program ##
 
-| Syntax | Description |
+| Sr. no | Title |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| English Test  | Given |
+| Canva Project | Given |
+| Maths Test  | Pending |
+| HUV Assignment | Completed Not Collected By Mam|
