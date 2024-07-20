@@ -6,4 +6,4 @@
 | English Test  | Given |
 | Canva Project | Given |
 | Maths Test  | Pending |
-| HUV Assignment | Completed Not Collected By Mam|
+| HUV Assignment | Completed But Not Collected By Mam|
